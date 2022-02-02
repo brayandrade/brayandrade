@@ -55,5 +55,8 @@ E você pode me encontrar por e-mail ou nas minhas Redes Sociais abaixo
   
   ##
  
-
-
+<div>
+  
+  ![Snake animation](https://github.com/brayandrade/brayandrade/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
