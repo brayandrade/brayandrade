@@ -15,11 +15,11 @@ Realizei um Mestrado em Gestão de Empresas em Portugal, sou graduada em Comunic
 Atualmente continuo estudando e praticando React.js, JavaScript, HTML, CSS, Typescript, e minha mais recente descoberta, a plataforma Low/NoCode ServiceNow
 
 
-📈 **Objetivos**
+📈 **Objetivos**<br>
 Estou em busca de uma oportunidade para ingressar no Mercado de Trabalho como Desenvolvedora Web.
 
 📥 **Contatos**<br>
-E você pode me encontrar por e-mail ou nas minhas Redes Sociais abaixo
+E você pode me encontrar por e-mail ou no Linkedin
 
 <div> 
 
@@ -31,15 +31,15 @@ E você pode me encontrar por e-mail ou nas minhas Redes Sociais abaixo
  
 </div>
 
-<div align="center">  
+<div align="left">  
   <h4> Visitors </h4>
   <img src="https://profile-counter.glitch.me/brayandrade/count.svg">
 </div>
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/brayandrade">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brayandrade&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayandrade&layout=compact&langs_count=7&theme=cobalt"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayandrade&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   
